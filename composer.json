@@ -1,0 +1,20 @@
+{
+    "name": "dibikinin/dibikinin-sibig",
+    "description": "dibikinin ke sibi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abdul",
+            "email": "abdul.hamid@tlab.co.id"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Parking\\": "src\\Parking\\"
+        }
+    }
+}
